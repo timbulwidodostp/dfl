@@ -2,4 +2,4 @@
 1
 2
 3
-p mss Heteroskedasticity test for quantile or OLS regressions Use mss With STATA 19
+p dfl DiNardo, Fortin and Lemieux Counterfacual Kernel Density Use dfl With STATA 19
